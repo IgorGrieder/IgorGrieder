@@ -5,7 +5,9 @@ Atualmente com foco de aprendizado para desenvolvimento web em HTML, CSS e JavaS
 
 -Buscando oportunidades de estágio como desenvolvedor de Software para aprimorar meus conhecimentos e adquirir experiência, principalmente.
 
--Linguagens de Programação: JavaScript, Java, HTML, CSS, C e VerilogHDL.
+-Linguagens de Programação: JavaScript, Java, TypeScript, HTML, CSS, C e VerilogHDL.
+
+-Frameworks: TailwindCSS
 
 -Sempre com foco no aprendizado.
 
