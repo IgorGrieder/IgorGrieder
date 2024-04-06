@@ -5,7 +5,7 @@ Propósito de ser um desenvolvedor Full Stack, atualmente com foco no Front End.
 
 -Buscando oportunidades de estágio como desenvolvedor de Software para aprimorar meus conhecimentos e adquirir experiência, principalmente.
 
--Linguagens de Programação: JavaScript, Java, TypeScript, HTML, CSS, C e VerilogHDL.
+-Linguagens: JavaScript, Java, TypeScript, HTML, CSS, C e VerilogHDL.
 
 -Frameworks: TailwindCSS
 
