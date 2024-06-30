@@ -3,7 +3,7 @@
 -Estou cursando o Terceiro Período de Engenharia da Computação pelo CEFET-MG.
 Propósito de ser um desenvolvedor Full Stack, atualmente com foco no Front End.
 
--Buscando oportunidades de estágio como desenvolvedor de Software para aprimorar meus conhecimentos e adquirir experiência, principalmente.
+-Development Intern.
 
 -Linguagens: JavaScript, React, Java, TypeScript, HTML, CSS e C.
 
