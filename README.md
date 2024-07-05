@@ -7,7 +7,7 @@ Propósito de ser um desenvolvedor Full Stack, atualmente com foco no Back End.
 
 -Linguagens: JavaScript, React, Java, TypeScript, HTML, CSS e C.
 
--Frameworks: TailwindCSS
+-Frameworks: TailwindCSS, Spring Boot.
 
 -Sempre com foco no aprendizado.
 
