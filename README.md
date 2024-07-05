@@ -1,7 +1,7 @@
 -👋 Olá, meu nome é @IgorGrieder
 
 -Estou cursando o Terceiro Período de Engenharia da Computação pelo CEFET-MG.
-Propósito de ser um desenvolvedor Full Stack, atualmente com foco no Front End.
+Propósito de ser um desenvolvedor Full Stack, atualmente com foco no Back End.
 
 -Development Intern.
 
