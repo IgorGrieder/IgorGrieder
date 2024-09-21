@@ -1,15 +1,9 @@
 -👋 Olá, meu nome é @IgorGrieder
 
--Estou cursando o Terceiro Período de Engenharia da Computação pelo CEFET-MG.
-Propósito de ser um desenvolvedor Full Stack, atualmente com foco no Back End.
+Graduando em Engenharia de Computação (4º período) pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), com formação técnica em Mecânica pela mesma instituição. Atuo como estagiário de desenvolvimento Full Stack na Bwtech, onde busco aprimorar minhas habilidades técnicas e expandir meu conhecimento em desenvolvimento de software. Tenho interesse em oportunidades desafiadoras na área de desenvolvimento de software, onde posso aplicar e desenvolver meu conhecimento em tecnologias de Front-end e Back-end, contribuindo para a criação de soluções inovadoras.
 
--Development Intern.
-
--Linguagens: JavaScript, React, Java, TypeScript, HTML, CSS e C.
-
--Frameworks: TailwindCSS, Spring Boot.
-
--Sempre com foco no aprendizado.
+Desenvolvimento Back-end: Experiência com Java, .NET (C# e VB), Node.js (Express) e SQL.
+Desenvolvimento Front-end: Habilidades em JavaScript, TypeScript, React, HTML e CSS (Tailwind CSS).
 
 <!---
 IgorGrieder/IgorGrieder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
