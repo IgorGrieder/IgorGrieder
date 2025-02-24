@@ -2,7 +2,7 @@
 
 - Graduando em Engenharia de Computação (4º período) pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), com formação técnica em Mecânica pela mesma instituição. Atuo como estagiário de desenvolvimento Full Stack na dti digital, onde busco aprimorar minhas habilidades técnicas e expandir meu conhecimento em desenvolvimento de software. Tenho interesse em oportunidades desafiadoras na área de desenvolvimento de software, onde posso aplicar e desenvolver meu conhecimento em tecnologias de Front-end e Back-end, contribuindo para a criação de soluções inovadoras.
 
-- Desenvolvimento Back-end: Java, .NET (C# e VB), Node.js (Express) e SQL.
+- Desenvolvimento Back-end: Java, .NET (C# e VB), Node.js (Express), Python e SQL.
 - Desenvolvimento Front-end: JavaScript, TypeScript, React, HTML e CSS (Tailwind CSS).
 
 <!---
