@@ -1,8 +1,10 @@
-Currently focussed to be a better software developer 🙃
+Systems Engineering Student @ UFMG | Coding with passion   
 
-*Stack*: 
-  - Frontend: JavaScript, TypeScript, React, Angular.
-  - Backend: Node.js, Java, Python, Docker, C#. 
+Stack:  
+Frontend: JavaScript, TypeScript, React, Angular.  
+Backend: Node.js, Java, Python, Docker, C#.  
+
+Forever learning, forever building, a tinker.  
 
 <!---
 IgorGrieder/IgorGrieder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
