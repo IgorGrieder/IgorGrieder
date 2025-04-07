@@ -2,7 +2,7 @@ Systems Engineering Student @ UFMG | Coding with passion
 
 Stack:  
 Frontend: JavaScript, TypeScript, React, Angular.  
-Backend: Node.js, Java, Python, Docker, C#.  
+Backend: Node.js (TS), Java, Python, Docker, C#.  
 
 Forever learning, forever building, a tinker.  
 
