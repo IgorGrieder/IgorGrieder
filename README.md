@@ -15,6 +15,8 @@ Infra & DevOps: Docker, Kubernetes, Terraform, Azure Pipelines, CI/CD, Git
 Databases: Relational (MySQL, PostgreSQL, Oracle, SQL Server) and NoSQL (DynamoDB, MongoDB)
 
 Front-end: React, Angular
+
+I use nvim btw
 <!---
 IgorGrieder/IgorGrieder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
