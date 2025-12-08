@@ -1,4 +1,4 @@
-Undergraduate in Systems Engineering (UFMG, 6th semester) and Full-Stack developer with experience primarily in Node.js, React (TypeScript), and Go. I adopt pragmatic solutions to deliver value in agile cycles, keeping code consistent with the existing codebase and consistently applying architectural principles and a systems-thinking mindset.
+Undergraduate in Systems Engineering (UFMG, 7th semester) and Full-Stack developer with experience primarily in Node.js, React (TypeScript), and Go. I adopt pragmatic solutions to deliver value in agile cycles, keeping code consistent with the existing codebase and consistently applying architectural principles and a systems-thinking mindset.
 
 Looking to join projects where I can contribute my expertise in full-stack development—bridging frontend creativity with backend logic to deliver solutions that are both efficient and impactful.
 
