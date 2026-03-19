@@ -8,11 +8,11 @@ Languages & frameworks: Node.js (Express), Go (Gin), Java (Spring Boot), C# (.NE
 
 Code & architecture: REST, Microservices, Event-Driven (Pub/Sub and queues), Domain-Driven Design, SOLID, Layered Architecture, Hexagonal Architecture
 
-Cloud: AWS (Lambda, Glue, S3, Athena, DynamoDB), Azure Functions
+Cloud: AWS (Lambda, Glue, S3, Athena, DynamoDB), Azure Functions, GCP (Cloud Run, Firestore, Pub/Sub)
 
 Infra & DevOps: Docker, Kubernetes, Terraform, Azure Pipelines, CI/CD, Git
 
-Databases: Relational (MySQL, PostgreSQL, Oracle, SQL Server) and NoSQL (DynamoDB, MongoDB)
+Databases: Relational (MySQL, PostgreSQL, Oracle, SQL Server) and NoSQL (DynamoDB, MongoDB, Firestore)
 
 Front-end: React, Angular
 
